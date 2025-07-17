@@ -1,5 +1,5 @@
 <?php
-
+//hola
 include_once './controladores/session_usuario.php';
 
 $usuario = new SessionUsuario();
